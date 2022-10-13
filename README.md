@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Aarón Fernández, a Sound Technician and future Web Developer based in Spain 🎙️👨🏻‍💻.
+- 👋 Hello, I’m Aarón Fernández, a Sound Technician and future Web Developer based in Spain 🎙️👨🏻‍💻.
 - 👀 I’m interested in everything related to programming and programming languages 🖥🖱️.
 - 🔭 I’m currently working on a personal projects.
 - 🌱 I’m currently learning DAW; Java, SQL, HTML, CSS, JavaScript, PHP...
